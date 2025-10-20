@@ -60,43 +60,6 @@ Sane Politics is a full-stack web application that makes politics accessible to 
 - Custom design tokens for consistent theming
 - 4x3 photo collage showcasing political imagery
 
-## 🚀 Getting Started
-
-### Prerequisites
-- Node.js 18+ installed
-- npm or pnpm package manager
-
-### Installation
-
-1. Clone the repository
-\`\`\`bash
-git clone https://github.com/yourusername/sane-politics.git
-cd sane-politics
-\`\`\`
-
-2. Install dependencies
-\`\`\`bash
-npm install
-# or
-pnpm install
-\`\`\`
-
-3. Run the development server
-\`\`\`bash
-npm run dev
-# or
-pnpm dev
-\`\`\`
-
-4. Open [http://localhost:3000](http://localhost:3000) in your browser
-
-### Build for Production
-
-\`\`\`bash
-npm run build
-npm start
-\`\`\`
-
 ## 📁 Project Structure
 
 \`\`\`
@@ -166,7 +129,3 @@ This project is open source and available under the [MIT License](LICENSE).
 - UI components from [shadcn/ui](https://ui.shadcn.com/)
 - Icons from [Lucide](https://lucide.dev/)
 - Charts powered by [Recharts](https://recharts.org/)
-
----
-
-**Made with ❤️ to promote informed civic engagement**
