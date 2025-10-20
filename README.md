@@ -62,23 +62,25 @@ Sane Politics is a full-stack web application that makes politics accessible to 
 
 ## 📁 Project Structure
 
-\`\`\`
+<details>
+<summary>📁 Project Structure</summary>
+
+```text
 sane-politics/
-├── app/                     # Next.js App Router pages
-│   ├── page.tsx             # Homepage
-│   ├── articles/            # Articles page with filtering
-│   ├── election-models/     # Election tracking and results
-│   ├── learning-resources/  # Educational resources hub
-│   └── about/               # About page with team info
-├── components/              # Reusable React components
-│   ├── navigation.tsx       # Main navigation bar
-│   ├── footer.tsx           # Site footer
-│   └── ui/                  # shadcn/ui components
-├── lib/                     # Utility functions and data
-│   └── articles-data.ts     # Article content and metadata
-├── public/                  # Static assets (images, etc.)
-└── app/globals.css          # Global styles and Tailwind config
-\`\`\`
+├── app/                         # Next.js App Router pages
+│   ├── page.tsx                 # Homepage
+│   ├── articles/                # Articles page with filtering
+│   ├── election-models/         # Election tracking and results
+│   ├── learning-resources/      # Educational resources hub
+│   └── about/                   # About page with team info
+├── components/                  # Reusable React components
+│   ├── navigation.tsx           # Main navigation bar
+│   ├── footer.tsx               # Site footer
+│   └── ui/                      # shadcn/ui components
+├── lib/                         # Utility functions and data
+│   └── articles-data.ts         # Article content and metadata
+├── public/                      # Static assets (images, etc.)
+└── app/globals.css              # Global styles and Tailwind config
 
 ## 🎯 Key Pages
 
