@@ -60,8 +60,7 @@ Sane Politics is a full-stack web application that makes politics accessible to 
 - Custom design tokens for consistent theming
 - 4x3 photo collage showcasing political imagery
 
-**📁 Project Structure**
-
+### 📁 Project Structure
 - sane-politics/
       - app/ – Next.js App Router pages
       - page.tsx – Homepage
