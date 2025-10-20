@@ -81,6 +81,7 @@ sane-politics/
 │   └── articles-data.ts         # Article content and metadata
 ├── public/                      # Static assets (images, etc.)
 └── app/globals.css              # Global styles and Tailwind config
+</details>
 
 ## 🎯 Key Pages
 
