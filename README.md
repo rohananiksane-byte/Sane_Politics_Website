@@ -64,7 +64,7 @@ Sane Politics is a full-stack web application that makes politics accessible to 
 
 \`\`\`
 sane-politics/
-├── app/                      # Next.js App Router pages
+├── app/                     # Next.js App Router pages
 │   ├── page.tsx             # Homepage
 │   ├── articles/            # Articles page with filtering
 │   ├── election-models/     # Election tracking and results
