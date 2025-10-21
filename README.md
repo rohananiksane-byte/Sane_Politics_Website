@@ -120,7 +120,7 @@ This project is licensed under the MIT License - see the [LICENSE](./LICENSE) fi
 
 **Rohan Sane**
 - Founder & Lead Analyst at Sane Politics
-- Email: contact@sanepolitics.com
+- Email: rsane@uwaterloo.ca
 
 ## 🙏 Acknowledgments
 
